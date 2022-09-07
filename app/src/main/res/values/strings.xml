@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jokenpô</string>
+    <string name="tittle_statistics">Estatísticas</string>
+    <string name="tittle_how_to_play">Como Jogar?</string>
+</resources>

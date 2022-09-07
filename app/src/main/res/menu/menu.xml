@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/howToPlay"
+        android:title="Como Jogar"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/estatisticas"
+        android:title="Estatísticas"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/aboutDeveloper"
+        android:title="Sobre o Desenvolvedor"
+        app:showAsAction="never"/>
+
+
+</menu>
